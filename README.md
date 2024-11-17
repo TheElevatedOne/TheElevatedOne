@@ -15,6 +15,24 @@
 - I can say that I am a Programmer, an Amateur Astrophotographer, an Amateur Audio Engineer and Music Producer, an AI Model Trainer and Artist and bunch more things I dabbled in.
 
 ### You can find my stuff here: [Linktree](https://tree.elevated.ovh)
+<details>
+  <summary><h3>Or here:</h3></summary>
+  <ul>
+    <li>https://www.elevated.ovh - Main Website</li>
+    <li>https://m.elevated.ovh - Mobile Website</li>
+    <li>https://tree.elevated.ovh - The Linktree</li>
+    <li>https://vape.elevated.ovh - Vape Mixes and Recipes Website</li>
+    <li>https://dock.elevated.ovh - Tutorial for Tensordock based server for AI Image Generation/Training, Markdown Parser Website</li>
+    <li>http://git.elevated.ovh - Redirect to this very website</li>
+    <li>http://ko-fi.elevated.ovh - Redirect to my Ko-Fi</li>
+    <li>http://civitai.elevated.ovh - Redirect to my CivitAI page</li>
+    <li>http://bandcamp.elevated.ovh - Redirect to my Bandcamp</li>
+    <li>http://sound.elevated.ovh - Redirect to my Soundcloud</li>
+    <li>http://yt.elevated.ovh - Redirect to my Main YT Channel</li>
+    <li>http://ytm.elevated.ovh - Redirect to my Music YT Channel</li>
+    <li>http://ytx.elevated.ovh - Redirect to my Secondary YT Channel</li>
+  </ul>
+</details>
 
 ## And that's kinda it
 **Yee**
