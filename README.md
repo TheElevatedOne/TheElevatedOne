@@ -14,8 +14,7 @@
 - I am a self-diagnosed autistic person via the [RAADS-R](https://embrace-autism.com/raads-r/) test
 - I can say that I am a Programmer, an Amateur Astrophotographer, an Amateur Audio Engineer and Music Producer, an AI Model Trainer and Artist and bunch more things I dabbled in.
 
-### You can find my stuff here: 
-**<a href="https://tree.elevated.ovh" target="_blank">Linktree</a>**
+### You can find my stuff here: [Linktree](https://tree.elevated.ovh)
 
 ## And that's kinda it
 **Yee**
