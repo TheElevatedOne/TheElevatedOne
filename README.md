@@ -18,6 +18,7 @@
 - [x] PyMo
 - [ ] Create a TUI (Terminal UI) Weather widget with OpenMeteo and ClearOutside
 - [ ] (At least try to) Recreate MusicBee as I like it in TUI
+- [ ] Websites (took time off after 2 months of work)
 
 ## And that's kinda it
 **Yee**
