@@ -1,7 +1,9 @@
 # Hello and Welcome to my Profile! 😄 
 ## My name is Adam Mladý, publically known as ELEVATED.
 ### I am an Autistic Person exploring every nook and cranny to find interesting things to learn and work on.
+### My Resume/CV is @ http://resume.elevated.ovh
 ---
+
 ## **My Background:**
 - I was born, study and live in Slovakia 🇸🇰
 - I finished a "grammar" high school *(it's "gymnázium" in Slovak, it means a high school where you learn everything you would need to get into a university and not fail)*
@@ -13,6 +15,8 @@
 ## **About Myself:**
 - I am a self-diagnosed autistic person via the [RAADS-R](https://embrace-autism.com/raads-r/) test
 - I can say that I am a Programmer, an Amateur Astrophotographer, an Amateur Audio Engineer and Music Producer, an AI Model Trainer and Artist and bunch more things I dabbled in.
+
+---
 
 ## Finished Projects
 ### [PyMo](https://github.com/TheElevatedOne/pymo)
@@ -32,6 +36,8 @@
 ### WeatherPie (Private Repo until Alpha)
 - TUI Weather app writted using Python and the Textual library.
 - Uses OpenMeteoAPI and ClearOustideAPY
+
+---
 
 ## And that's kinda it
 **Yee**
