@@ -19,6 +19,7 @@
 ---
 
 ## Finished Projects
+
 ### [PyMo](https://github.com/TheElevatedOne/pymo)
 - Python Motion Visulizer
 - User inputs a video and the program subtracts the frames with a differece to show motion.
@@ -33,6 +34,11 @@
 - Just made it multithreaded so it's faster
 
 ## Unfinished Projects
+
+### [distrous.omp.json](https://github.com/TheElevatedOne/distrous.omp.json)
+- oh-my-posh themes based on distro colors
+- with a config file and a generator
+
 ### WeatherPie (Private Repo until Alpha)
 - TUI Weather app writted using Python and the Textual library.
 - Uses OpenMeteoAPI and ClearOustideAPY
