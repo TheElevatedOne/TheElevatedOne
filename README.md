@@ -21,15 +21,21 @@
 ## Finished Projects
 
 ### [PyMo](https://github.com/TheElevatedOne/pymo)
+<p align="left"><img src="https://github.com/TheElevatedOne/pymo/blob/main/assets/logo.svg" width="10%"></p>
+
 - Python Motion Visulizer
 - User inputs a video and the program subtracts the frames with a differece to show motion.
 
 ### [ClearOutsideAPY](https://github.com/TheElevatedOne/ClearOutsideAPY)
+<p align="left"><img src="https://github.com/TheElevatedOne/ClearOutsideAPY/blob/main/logo/clear-outside-apy.svg" width="15%"></p>
+
 - [ClearOutside](https://clearoutside.com) is a Weather Website for Astronomers and Astrophotographes.
 - They use Apple Weather API which is a bit pricy for the amount of data
 - So I just scrape it a return a giant dictionary
 
 ### [distrous.omp.json](https://github.com/TheElevatedOne/distrous.omp.json)
+<p align="left"><img src="https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logos/logo.png" width="30%"></p>
+
 - oh-my-posh themes based on distro colors
 - with a config file and a generator
 
