@@ -51,7 +51,9 @@
 
 ### [ghost-dl](https://github.com/TheElevatedOne/ghost-dl)
 
-- A downloader for downloads.khinsider.com
+<p aligh="left"><img src="https://github.com/TheElevatedOne/ghost-dl/blob/main/assets/logo.png?raw=true" width="20%"></p>
+
+- A downloader for [downloads.khisider.com](https://downloads.khinsider.com)
 
 ## Unfinished Projects
 
