@@ -53,6 +53,8 @@
 
 <p aligh="left"><img src="https://github.com/TheElevatedOne/ghost-dl/blob/main/assets/logo.png?raw=true" width="20%"></p>
 
+[![AUR Version](https://img.shields.io/aur/version/ghost-dl-git?style=flat-square&logo=git&logoColor=white&label=AUR%20GHOST-DL-GIT)](https://aur.archlinux.org/packages/ghost-dl-git) [![AUR Version](https://img.shields.io/aur/version/ghost-dl-bin?style=flat-square&logo=archlinux&logoColor=white&label=AUR%20GHOST-DL-BIN)](https://aur.archlinux.org/packages/ghost-dl-bin) [![GitHub Release](https://img.shields.io/github/v/release/TheElevatedOne/ghost-dl?display_name=release&style=flat-square)](https://github.com/TheElevatedOne/ghost-dl/releases/latest)
+
 - A downloader for [downloads.khisider.com](https://downloads.khinsider.com)
 
 ## Unfinished Projects
