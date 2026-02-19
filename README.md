@@ -4,7 +4,7 @@
 
 ### I am an Autistic Person exploring every nook and cranny to find interesting things to learn and work on
 
-### My Resume/CV is @ <http://resume.elevated.ovh>
+### My Resume/CV is @ Nowhere Currently
 
 ---
 
