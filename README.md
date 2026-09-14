@@ -68,13 +68,6 @@
 
 - A downloader for [downloads.khisider.com](https://downloads.khinsider.com)
 
-## Unfinished Projects
-
-### WeatherPie (Private Repo until Alpha)
-
-- TUI Weather app writted using Python and the Textual library.
-- Uses OpenMeteoAPI and ClearOustideAPY
-
 ---
 
 ## And that's kinda it
