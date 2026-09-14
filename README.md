@@ -45,9 +45,13 @@
 
 <p align="left"><img src="https://github.com/TheElevatedOne/ClearOutsideAPY/blob/main/logo/clear-outside-apy.svg" width="15%"></p>
 
+![Static Badge](https://img.shields.io/badge/Vibecoded-Grok-black?style=for-the-badge&labelColor=%236F0E82)
+
+
 - [ClearOutside](https://clearoutside.com) is a Weather Website for Astronomers and Astrophotographes.
 - They use Apple Weather API which is a bit pricy for the amount of data
 - So I just scrape it a return a giant dictionary
+- Finished up with AI, made it faster and more reliable
 
 ### [distrous.omp.json](https://github.com/TheElevatedOne/distrous.omp.json)
 
