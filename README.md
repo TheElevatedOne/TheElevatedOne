@@ -23,6 +23,13 @@
 - I am a self-diagnosed autistic person via the [RAADS-R](https://embrace-autism.com/raads-r/) test
 - I can say that I am a Programmer, an Amateur Astrophotographer, an Amateur Audio Engineer and Music Producer, an AI Model Trainer and Artist and bunch more things I dabbled in.
 
+## **Vibecoding:**
+
+- Programs I do not plan updating, rewriting or finishing, I plan to use AI to finish it for me.
+- All Vibecoded programs will have this ![Static Badge](https://img.shields.io/badge/Vibecoded-Grok-black?style=for-the-badge&labelColor=%236F0E82)
+  at the top of the README aswell as a vibe-coding tag.
+- I do this so that you can avoid them if that is your preference.
+
 ---
 
 ## Finished Projects
