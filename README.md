@@ -12,7 +12,7 @@
 
 - I was born, study and live in Slovakia 🇸🇰
 - I finished a "grammar" high school *(it's "gymnázium" in Slovak, it means a high school where you learn everything you would need to get into a university and not fail)*
-- I currently study at the Faculty of Management and Informatics at the University of Žilina (FRI UNIZA) in the Computer Science department.
+- I dropped out of Uni and am currently trying to make my life be together
 
 ## **My Work Experience:**
 
