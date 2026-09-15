@@ -12,7 +12,7 @@
 
 - I was born, study and live in Slovakia 🇸🇰
 - I finished a "grammar" high school *(it's "gymnázium" in Slovak, it means a high school where you learn everything you would need to get into a university and not fail)*
-- I dropped out of Uni and am currently trying to make my life be together
+- I dropped out of Uni and am currently trying to get my life be together
 
 ## **My Work Experience:**
 
