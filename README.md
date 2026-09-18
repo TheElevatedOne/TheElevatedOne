@@ -28,6 +28,9 @@
 - Programs I do not plan updating, rewriting or finishing, I plan to use AI to finish it for me.
 - All Vibecoded programs will have this ![Static Badge](https://img.shields.io/badge/Vibecoded-Grok-black?style=for-the-badge&labelColor=%236F0E82)
   at the top of the README aswell as a vibe-coding tag.
+  ```
+  ![Static Badge](https://img.shields.io/badge/Vibecoded-Grok-black?style=for-the-badge&labelColor=%236F0E82)
+  ```
 - I do this so that you can avoid them if that is your preference.
 
 ---
